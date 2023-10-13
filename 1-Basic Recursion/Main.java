@@ -11,11 +11,11 @@ public class Main {
 
         //--------------------------------------Phase II --------------------------------
 
-        // Question 6 = sum of 1st n numbers
-        // Question 7 = factorial 
-        // Question 8 =fibonacci
-        // Question 9 = reverse an array 
-        // Question 10 = palindrome 
+               // Question 6 = sum of 1st n numbers
+               // Question 7 = factorial 
+   	       // Question 8 =fibonacci
+      	       // Question 9 = reverse an array 
+     	       // Question 10 = palindrome 
          
 
 		
@@ -28,7 +28,7 @@ public class Main {
       //   Q6(50,0);
 
       //   Q7(10);
-     //   System.out.println(Q8(40));
+      //   System.out.println(Q8(40));
 
      // int[] arr = {2,45,6,7,8,9};
      // Q9(arr,6);
