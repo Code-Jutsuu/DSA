@@ -24,18 +24,18 @@ public class Main {
            
         // }
 
-        // // Create a HashMap to store element frequencies
-        // HashMap<Integer, Integer> frequencyMap = new HashMap<>();
+         // Create a HashMap to store element frequencies
+         HashMap<Integer, Integer> frequencyMap = new HashMap<>();
 
-        // // Loop through the array and update the frequency map
-        // for (int num : arr) {
-        //     frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
-        // }
+         // Loop through the array and update the frequency map
+         for (int num : arr) {
+             frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+         }
 
-        // // Display the frequency of each element
-        // for (HashMap.Entry<Integer, Integer> entry : frequencyMap.entrySet()) {
-        //     System.out.println("Element " + entry.getKey() + " occurs " + entry.getValue() + " times.");
-        // }
+         // Display the frequency of each element
+         for (HashMap.Entry<Integer, Integer> entry : frequencyMap.entrySet()) {
+             System.out.println("Element " + entry.getKey() + " occurs " + entry.getValue() + " times.");
+         }
 
       
 
