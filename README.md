@@ -22,12 +22,12 @@ Welcome to the Data Structures and Algorithms (DSA) Learning repository! This re
 
 This repository covers various Data Structures and Algorithms topics, including but not limited to:
 
-- Arrays and Strings
-- Linked Lists
-- Stacks and Queues
-- Trees and Graphs
-- Searching and Sorting Algorithms
-- Dynamic Programming
+- Basic Recursion & Hashing
+- Sorting
+- ...
+- ...
+- 
+- ...
 - ...
 
 Feel free to explore and contribute to expand the coverage of topics!
